@@ -35,11 +35,11 @@ Program ini adalah program sederhana untuk menambahkan data kedalam sebuah list 
 
 * **Hasil output program:**
 
-![Gambar 1](screenshoot/ss1.png)
+![Gambar 1](Screenshoot/ss1.png)
 
 * **Flowchart:**
 
-![Gambar 2](screenshoot/flowchart.png)
+![Gambar 2](Screenshoot/flowchart.png)
 
 * **Penjelasan program:**
 
