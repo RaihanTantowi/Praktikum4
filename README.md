@@ -43,7 +43,7 @@ Program ini adalah program sederhana untuk menambahkan data kedalam sebuah list 
 
 * **Penjelasan program:**
 
-Install terlebih dahulu module texttable dan PIP (Package) 
+Install terlebih dahulu module texttable dan PIP (Package) [klik disini untuk download](https://pypi.org/project/texttable/1.6.4//).
 
 Pada langkah pertama kita perlu meng-import module yang telah di install dengan kodingan seperti dibawah ini.
 ```
