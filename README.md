@@ -97,20 +97,20 @@ kodingan tersebut merupakan sebuah output yang menghasilkan kolom tabel yang did
 * **CODINGAN:**
 ```
  #List dengan 5 elemen
- print("="*35)
+ print("="*73)
  nilai = [11, 12, 13, 14, 15]
  print("Membuat sebuah list dengan 5 elemen: ")
  print(nilai[0:6])
- print("="*35)
+ print("="*73)
 
  #Akses pada list
  print("Akses list")
  print ("element ke 3 : ", nilai[2])
  print ("element ke 2 sampai ke 4 : ", nilai[1:4])
- print("="*35)
+ print("="*73)
 
  #mengubah element list
- print("Mengubah elemen list")
+ print("Ubah elemen list")
  odd = [11,12,13,14,15]
  odd[3] = 10
  print("Mengubah elemen ke 4 dengan nilai lainnya: ", odd)
@@ -118,10 +118,10 @@ kodingan tersebut merupakan sebuah output yang menghasilkan kolom tabel yang did
  #Mengubah elemen ke 4 sampai dengan elemen terakhir
  odd[3:5] = [16,18]
  print("Mengubah elemen ke 4 sampai dengan elemen terakhir: ",odd)
- print("="*30)
+ print("="*73)
 
  #menambahkan element
- print("Menambahkan element")
+ print("Tambah element list")
  nilaia = [11,22,14]
  nilaib = [24,12,52]
  print("list a : ", nilaia)
@@ -131,9 +131,9 @@ kodingan tersebut merupakan sebuah output yang menghasilkan kolom tabel yang did
  nilaib.extend([60,70,80])
  print ("menambahkan list B dengan 3 nilai", nilaib)
  print ("mengabungkan list A dan B : " ,nilaia + nilaib)
- print("="*35)
+ print("="*73)
  print("Thanks :)")
- print("="*35)
+ print("="*73)
 ```
 
 * **Hasil output program:**
