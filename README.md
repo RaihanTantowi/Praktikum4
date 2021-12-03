@@ -138,4 +138,4 @@ kodingan tersebut merupakan sebuah output yang menghasilkan kolom tabel yang did
 
 * **Hasil output program:**
 
-![Gambar 3](Screenshoot/ss3.JPG)
+![Gambar 3](Screenshoot/ss2.JPG)
